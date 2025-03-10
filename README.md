@@ -12,7 +12,13 @@ This project analyzes electric vehicle (EV) data to uncover insights into vehicl
   - Growth of EV adoption over the years.  
   - Top EV manufacturers and models.  
   - State-wise distribution of EV registrations.  
-  - EV eligibility for Clean Alternative Fuel Vehicle (CAFV) programs.  
+  - EV eligibility for Clean Alternative Fuel Vehicle (CAFV) programs.
+    
+## 📸 Dashboard Preview  
+![image](https://github.com/user-attachments/assets/d918d4c1-5f7b-4b46-8e47-8ef9417c673c)
+![image](https://github.com/user-attachments/assets/1c2cbe43-e65b-4622-b53c-a656f5d0334c)
+![image](https://github.com/user-attachments/assets/11b31f1c-4e9a-4e64-901e-4171135cfac5)
+
 
 ## 🚀 Technologies Used  
 - Tableau  
